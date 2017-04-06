@@ -1,3 +1,7 @@
+## Author: Francisco Chima Sanchez
+## Created: 2016-03-10
+## Last Modified: 2017-04-05
+
 # This script demonstrates the centered-difference approximation to the derivative of a function. Specifically, while
 # test $f(x) = sin^2 x$ at the point $x = 1$. The step size is set at $h = 1$ and with each iteration, reduced by a factor
 # of 10. Algorithm is iterated until the error in approximation is less than $10^{-8}$
